@@ -1,0 +1,9 @@
+﻿{
+  "CapacidadEstacionamiento": {
+    "cantidadMotos": "10",
+    "cantidadCarros": "20"
+  },
+  "ValorMotoAltoCilindraje": {
+    "AltoCilindraje": "2000"
+  }
+}

@@ -1,0 +1,15 @@
+﻿{
+  "RestriccionLetra": {
+    "LetraPlaca": "a"
+  },
+  "RestriccionDias": {
+    "Dias": [
+      {
+        "dia": "Sunday"
+      },
+      {
+        "dia": "Monday"
+      }
+    ]
+  }
+}

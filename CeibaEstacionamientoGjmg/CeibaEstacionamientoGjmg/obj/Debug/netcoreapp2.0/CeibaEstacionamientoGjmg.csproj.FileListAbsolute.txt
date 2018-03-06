@@ -1,0 +1,11 @@
+c:\users\gabriel.munoz\source\repos\CeibaEstacionamientoGjmg\CeibaEstacionamientoGjmg\bin\Debug\netcoreapp2.0\CeibaEstacionamientoGjmg.deps.json
+c:\users\gabriel.munoz\source\repos\CeibaEstacionamientoGjmg\CeibaEstacionamientoGjmg\bin\Debug\netcoreapp2.0\CeibaEstacionamientoGjmg.runtimeconfig.json
+c:\users\gabriel.munoz\source\repos\CeibaEstacionamientoGjmg\CeibaEstacionamientoGjmg\bin\Debug\netcoreapp2.0\CeibaEstacionamientoGjmg.runtimeconfig.dev.json
+c:\users\gabriel.munoz\source\repos\CeibaEstacionamientoGjmg\CeibaEstacionamientoGjmg\bin\Debug\netcoreapp2.0\CeibaEstacionamientoGjmg.dll
+c:\users\gabriel.munoz\source\repos\CeibaEstacionamientoGjmg\CeibaEstacionamientoGjmg\obj\Debug\netcoreapp2.0\CeibaEstacionamientoGjmg.csprojResolveAssemblyReference.cache
+c:\users\gabriel.munoz\source\repos\CeibaEstacionamientoGjmg\CeibaEstacionamientoGjmg\obj\Debug\netcoreapp2.0\CeibaEstacionamientoGjmg.csproj.CoreCompileInputs.cache
+c:\users\gabriel.munoz\source\repos\CeibaEstacionamientoGjmg\CeibaEstacionamientoGjmg\obj\Debug\netcoreapp2.0\CeibaEstacionamientoGjmg.AssemblyInfoInputs.cache
+c:\users\gabriel.munoz\source\repos\CeibaEstacionamientoGjmg\CeibaEstacionamientoGjmg\obj\Debug\netcoreapp2.0\CeibaEstacionamientoGjmg.AssemblyInfo.cs
+c:\users\gabriel.munoz\source\repos\CeibaEstacionamientoGjmg\CeibaEstacionamientoGjmg\bin\Debug\netcoreapp2.0\CeibaEstacionamientoGjmg.pdb
+c:\users\gabriel.munoz\source\repos\CeibaEstacionamientoGjmg\CeibaEstacionamientoGjmg\obj\Debug\netcoreapp2.0\CeibaEstacionamientoGjmg.dll
+c:\users\gabriel.munoz\source\repos\CeibaEstacionamientoGjmg\CeibaEstacionamientoGjmg\obj\Debug\netcoreapp2.0\CeibaEstacionamientoGjmg.pdb

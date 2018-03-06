@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CeibaEstacionamientoGjmg", "CeibaEstacionamientoGjmg\CeibaEstacionamientoGjmg.csproj", "{32F9E414-070C-46FC-85A6-16815BB033B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebasDeIntegracionEstacionamiento", "PruebasDeIntegracionEstacionamiento\PruebasDeIntegracionEstacionamiento.csproj", "{13C3989B-8EFA-4F30-80C4-EF11D68786CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32F9E414-070C-46FC-85A6-16815BB033B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32F9E414-070C-46FC-85A6-16815BB033B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32F9E414-070C-46FC-85A6-16815BB033B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32F9E414-070C-46FC-85A6-16815BB033B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13C3989B-8EFA-4F30-80C4-EF11D68786CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C3989B-8EFA-4F30-80C4-EF11D68786CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C3989B-8EFA-4F30-80C4-EF11D68786CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C3989B-8EFA-4F30-80C4-EF11D68786CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9B039D4-AE41-4AC1-A2E3-228074A16307}
+	EndGlobalSection
+EndGlobal

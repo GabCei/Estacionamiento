@@ -1,0 +1,16 @@
+c:\users\gabriel.munoz\source\repos\CeibaEstacionamientoGjmg\PruebasDeIntegracionEstacionamiento\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\gabriel.munoz\source\repos\CeibaEstacionamientoGjmg\PruebasDeIntegracionEstacionamiento\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\gabriel.munoz\source\repos\CeibaEstacionamientoGjmg\PruebasDeIntegracionEstacionamiento\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\gabriel.munoz\source\repos\CeibaEstacionamientoGjmg\PruebasDeIntegracionEstacionamiento\bin\Debug\netcoreapp2.0\PruebasDeIntegracionEstacionamiento.deps.json
+c:\users\gabriel.munoz\source\repos\CeibaEstacionamientoGjmg\PruebasDeIntegracionEstacionamiento\bin\Debug\netcoreapp2.0\PruebasDeIntegracionEstacionamiento.runtimeconfig.json
+c:\users\gabriel.munoz\source\repos\CeibaEstacionamientoGjmg\PruebasDeIntegracionEstacionamiento\bin\Debug\netcoreapp2.0\PruebasDeIntegracionEstacionamiento.runtimeconfig.dev.json
+c:\users\gabriel.munoz\source\repos\CeibaEstacionamientoGjmg\PruebasDeIntegracionEstacionamiento\bin\Debug\netcoreapp2.0\PruebasDeIntegracionEstacionamiento.dll
+c:\users\gabriel.munoz\source\repos\CeibaEstacionamientoGjmg\PruebasDeIntegracionEstacionamiento\bin\Debug\netcoreapp2.0\PruebasDeIntegracionEstacionamiento.pdb
+c:\users\gabriel.munoz\source\repos\CeibaEstacionamientoGjmg\PruebasDeIntegracionEstacionamiento\bin\Debug\netcoreapp2.0\CeibaEstacionamientoGjmg.dll
+c:\users\gabriel.munoz\source\repos\CeibaEstacionamientoGjmg\PruebasDeIntegracionEstacionamiento\bin\Debug\netcoreapp2.0\CeibaEstacionamientoGjmg.pdb
+c:\users\gabriel.munoz\source\repos\CeibaEstacionamientoGjmg\PruebasDeIntegracionEstacionamiento\obj\Debug\netcoreapp2.0\PruebasDeIntegracionEstacionamiento.csprojResolveAssemblyReference.cache
+c:\users\gabriel.munoz\source\repos\CeibaEstacionamientoGjmg\PruebasDeIntegracionEstacionamiento\obj\Debug\netcoreapp2.0\PruebasDeIntegracionEstacionamiento.csproj.CoreCompileInputs.cache
+c:\users\gabriel.munoz\source\repos\CeibaEstacionamientoGjmg\PruebasDeIntegracionEstacionamiento\obj\Debug\netcoreapp2.0\PruebasDeIntegracionEstacionamiento.AssemblyInfoInputs.cache
+c:\users\gabriel.munoz\source\repos\CeibaEstacionamientoGjmg\PruebasDeIntegracionEstacionamiento\obj\Debug\netcoreapp2.0\PruebasDeIntegracionEstacionamiento.AssemblyInfo.cs
+c:\users\gabriel.munoz\source\repos\CeibaEstacionamientoGjmg\PruebasDeIntegracionEstacionamiento\obj\Debug\netcoreapp2.0\PruebasDeIntegracionEstacionamiento.dll
+c:\users\gabriel.munoz\source\repos\CeibaEstacionamientoGjmg\PruebasDeIntegracionEstacionamiento\obj\Debug\netcoreapp2.0\PruebasDeIntegracionEstacionamiento.pdb
